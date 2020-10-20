@@ -1,0 +1,12 @@
+c:\users\jessie\documents\visual studio 2012\Projects\PMetodos\PMetodos\bin\Debug\PMetodos.exe
+c:\users\jessie\documents\visual studio 2012\Projects\PMetodos\PMetodos\bin\Debug\PMetodos.pdb
+c:\users\jessie\documents\visual studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.csprojResolveAssemblyReference.cache
+c:\users\jessie\documents\visual studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.FrmPrincipal.resources
+c:\users\jessie\documents\visual studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.Properties.Resources.resources
+c:\users\jessie\documents\visual studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.GenerateResource.Cache
+c:\users\jessie\documents\visual studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.exe
+c:\users\jessie\documents\visual studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.pdb
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio2.resources
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio3.resources
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio4.resources
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio5.resources
