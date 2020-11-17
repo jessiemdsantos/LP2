@@ -1,0 +1,8 @@
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Prova\P0030482011045\P0030482011045\obj\Debug\P0030482011045.csprojResolveAssemblyReference.cache
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Prova\P0030482011045\P0030482011045\obj\Debug\P0030482011045.Form1.resources
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Prova\P0030482011045\P0030482011045\obj\Debug\P0030482011045.Properties.Resources.resources
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Prova\P0030482011045\P0030482011045\obj\Debug\P0030482011045.csproj.GenerateResource.Cache
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Prova\P0030482011045\P0030482011045\bin\Debug\P0030482011045.exe
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Prova\P0030482011045\P0030482011045\bin\Debug\P0030482011045.pdb
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Prova\P0030482011045\P0030482011045\obj\Debug\P0030482011045.exe
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Prova\P0030482011045\P0030482011045\obj\Debug\P0030482011045.pdb
