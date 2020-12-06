@@ -1,0 +1,13 @@
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.csprojAssemblyReference.cache
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.frmPrincipal.resources
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.Properties.Resources.resources
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.csproj.GenerateResource.cache
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.csproj.CoreCompileInputs.cache
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\bin\Debug\PF__0030482011045.exe.config
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\bin\Debug\PF__0030482011045.exe
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\bin\Debug\PF__0030482011045.pdb
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.exe
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.pdb
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.frmCidade.resources
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.AboutBox1.resources
+C:\Users\beesh\source\repos\PF__0030482011045\PF__0030482011045\obj\Debug\PF__0030482011045.frmSobre.resources
